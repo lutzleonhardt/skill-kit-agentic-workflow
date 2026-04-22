@@ -1,0 +1,8 @@
+# Ephemere Handoff-Dokumente (siehe /handoff-Skill) — nie committen
+handoff.md
+
+# macOS / Editor-Krempel
+.DS_Store
+*.swp
+.idea/
+.vscode/
